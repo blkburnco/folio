@@ -2,7 +2,7 @@
 _Quick Example of My Work From Print to Digital_
 
 ### LocatorX One-Page Flyer Sample - Option #1		
-![LocatorX Flyer - Half Pager](https://iambradblackburn.github.io/folio/option1/LocatorX-HalfPage.png)
+![LocatorX Flyer - Half Pager](https://iambradblackburn.github.io/folio/option1/LocatorX-HalfPage.jpeg)
 
 ### 	Attached Samples - Option #1
 * [LocatorX Flyer - Print Media Sample](https://iambradblackburn.github.io/folio/option1/LocatorX-Option1.jpg)
@@ -12,7 +12,7 @@ _Quick Example of My Work From Print to Digital_
 * _[LocatorX Flyer - Web ~ Coming Soon...](#)_
 
 ### LocatorX One-Page Flyer Sample - Option #2		
-![LocatorX Flyer - Half Pager](https://iambradblackburn.github.io/folio/option2/LocatorX-HalfPage.png)
+![LocatorX Flyer - Half Pager](https://iambradblackburn.github.io/folio/option2/LocatorX-HalfPage.jpeg)
 
 ### 	Attached Samples - Option #2
 * [LocatorX Flyer - Print Media Sample](https://iambradblackburn.github.io/folio/option2/LocatorX-Option1.jpg)
